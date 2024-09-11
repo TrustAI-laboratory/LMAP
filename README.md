@@ -31,10 +31,10 @@ A GUI PC app which adapted to MacOS, Windows, and Linux platforms.
 
 | Features                                        | Description                                                                                                               | Integrated |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------|
-| LLM Adapter 🛠️                   |  Configure the target LLM to be tested (such as gpt-4o, Qwen-max, etc), and also include the kwargs (such as Top_k, etc)  | ✅         |
+| LLM Adapter 🛠️                   |  Configure the target LLMs to be tested (such as gpt-4o, Qwen-max, etc), and also include the kwargs (such as Top_k, etc)  | ✅         |
 | Manual RedTeaming 🧪             |  Complete manual testing for multiple LLM targets, different prompts and parallel in one interface, eliminating the need to switch between various platforms, web pages, and apps, which improving manual testing efficiency | ✅          |
 | Automated RedTeaming 🧪             |  Manual RedTeaming is hard to scale, LMAP is developing some attack modules that enable automated prompt generation, which allows automated red teaming. | 🔄          |
-| Local Vulnerability Database  | Supports saving successful jailbreak prompts, forming a local custom vulnerability databases, and supports automatic replay of the local vulnerability databases  | ✅       |
+| Local Vulnerability Database  | Supports saving successful jailbreak prompts, building a local benchmark databases, and supports  retest  | ✅       |
 | Custom Datasets  | Recognising the diverse needs of different applications, Users can also tailor their tests with custom datasets, to evaluate their models for their unique use cases.  | 🔄       |
 | Benchmark Testing  | Benchmarks are “Exam questions” to test the model across a variety of competencies, e.g., language and context understanding. This provides developers with valuable insights to improve and refine the application.  | 🔄   |
 | Testing Report  | LMAP streamlines testing processes and reporting, seamlessly integrating with CI/CD pipelines for unsupervised test runs and generating shareable reports. This saves time and resources while ensuring thorough evaluation of model performance.  | 🔄   |
