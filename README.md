@@ -58,6 +58,7 @@ To make things more interesting, we also developed a playground website: [here](
 
 ## Introduction Demo
 [![TrustAI Red for PC](https://img.youtube.com/vi/BkxqaLQKGx4/0.jpg)](https://www.youtube.com/watch?v=BkxqaLQKGx4)
+watch on [Youtube](https://www.youtube.com/watch?v=BkxqaLQKGx4)
 
 
 ## 📦 Installation
