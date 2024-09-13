@@ -31,7 +31,7 @@ LMAP helps companies conduct RedTeaming activities at a lower cost by providing 
 ### > Demo: [Book a Demo](https://www.trustai.pro/book-a-demo)
 ### > Twitter: [@TrustAI_Ltd](https://x.com/TrustAI_Ltd)
 ### > Tutorial: [Learn Prompt Hacking](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking)!
-### > Issues: 【Bugs you encounter using LMAP](https://github.com/TrustAI-laboratory/LMAP/issues)
+### > Issues: [Bugs you encounter using LMAP](https://github.com/TrustAI-laboratory/LMAP/issues)
 
 
 ## LLM MaaS support
