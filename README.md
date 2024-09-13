@@ -22,7 +22,25 @@ We believe that only by continuously adversarial tests and simulated attacks can
 In the LLM space, companies often ask 
 - **"which foundation LLM model best suits our goals?"**
 - **"how do we ensure our application, building on the model we chose, is robust and safe?"**
+
 LMAP helps companies conduct RedTeaming activities at a lower cost by providing a set of efficient GUI and cloud plug-ins.
+
+
+## Contact us
+### > Join our [Discord](https://discord.gg/5ghPDwsR)!
+### > Demo: [Book a Demo](https://www.trustai.pro/book-a-demo)
+### > Twitter: [@TrustAI_Ltd](https://x.com/TrustAI_Ltd)
+### > Tutorial: [Learn Prompt Hacking](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking)!
+### > Issues: 【Bugs you encounter using LMAP](https://github.com/TrustAI-laboratory/LMAP/issues)
+
+
+## LLM MaaS support
+Seamless integration with MaaS (Model as a Service) , covering GPT, Llama3, Qwen, any OpenAI API-compatible models.  
+currently supports:
+- **[AliBaBa Cloud DashScope](https://dashscope.aliyun.com/)**
+- **[OpenAI API Chat & Continuation Models](https://chatgpt.com/)**
+- **Customer LLMs APIs: Customer Base URL**
+
 
 
 ## Core Components
@@ -31,10 +49,10 @@ A GUI PC app which adapted to MacOS, Windows, and Linux platforms.
 
 | Features                                        | Description                                                                                                               | Integrated |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------|
-| LLM Adapter 🛠️                   |  Configure the target LLMs to be tested (such as gpt-4o, Qwen-max, etc), and also include the kwargs (such as Top_k, etc)  | ✅         |
-| Manual RedTeaming 🧪             |  Complete manual testing for multiple LLM targets, different prompts and parallel in one interface, eliminating the need to switch between various platforms, web pages, and apps, which improving manual testing efficiency | ✅          |
+| **LLM Adapter** 🛠️                   |  Configure the target LLMs to be tested (such as gpt-4o, Qwen-max, etc), and also include the kwargs (such as Top_k, etc)  | ✅         |
+| **Manual RedTeaming** 🧪             |  Complete manual testing for multiple LLM targets, different prompts and parallel in one interface, eliminating the need to switch between various platforms, web pages, and apps, which improving manual testing efficiency | ✅          |
 | Automated RedTeaming 🧪             |  Manual RedTeaming is hard to scale, LMAP is developing some attack modules that enable automated prompt generation, which allows automated red teaming. | 🔄          |
-| Local Vulnerability Database  | Supports saving successful jailbreak prompts, building a local benchmark databases, and supports  retest  | ✅       |
+| **Local Vulnerability Database**  | Supports saving successful jailbreak prompts, building a local benchmark databases, and supports  retest  | ✅       |
 | Custom Datasets  | Recognising the diverse needs of different applications, Users can also tailor their tests with custom datasets, to evaluate their models for their unique use cases.  | 🔄       |
 | Benchmark Testing  | Benchmarks are “Exam questions” to test the model across a variety of competencies, e.g., language and context understanding. This provides developers with valuable insights to improve and refine the application.  | 🔄   |
 | Testing Report  | LMAP streamlines testing processes and reporting, seamlessly integrating with CI/CD pipelines for unsupervised test runs and generating shareable reports. This saves time and resources while ensuring thorough evaluation of model performance.  | 🔄   |
@@ -134,10 +152,4 @@ TBD
 
 ## Roadmap and Future Goals
 We are continuously improving the functionality, availability, and performance of LMAP. If you encounter any problems or have any unmet needs during using, please feel free to let us know through Issues, Discord, Email, or any other means. We are very willing to add corresponding features in future versions
-
-
-## Contact us
-- [Book a Demo](https://www.trustai.pro/book-a-demo).
-- [Discord](https://discord.gg/5ghPDwsR)
-- [Twitter](https://x.com/TrustAI_Ltd)
 
