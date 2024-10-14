@@ -3,7 +3,7 @@
 <h1 align="center">LMAP</h1>
 
 <p align="center">
-    LMAP (large language model mapper) is like NMAP for LLM, is a <b>Large Language Model (LLM) Evaluation Toolkits</b>, designed to integrate <b>Benchmarking</b>, <b>Testing Baselines</b>, <b>Redteaming</b>, and <b>Jailbreak Fuzzing and Adversarial Prompt Fuzzing</b>. It helps developers, compliance teams, and AI system owners manage LLM deployment risks by providing a seamless way to evaluate their applications’ performance, both pre- and post-deployment. 
+    LMAP (large language model mapper) is like NMAP for LLM, is a Out-of-Box <b>Large Language Model (LLM) Evaluation Tool</b>, designed to integrate <b>Benchmarking</b>, <b>Redteaming</b>, <b>Jailbreak Fuzzing and Adversarial Prompt Fuzzing</b>. It helps developers, compliance teams, and AI system owners manage LLM deployment risks by providing a easy way to evaluate their applications’ security and safety issue, both pre- and post-deployment. 
     <br />
     <br />
 We believe that only by continuously adversarial tests and simulated attacks can we expose as many potential risks of LLM as possible and ultimately push LLM Security Alignment towards a safer stage.
