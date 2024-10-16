@@ -29,6 +29,7 @@ LMAP helps companies conduct evaluation and redteaming activities at a lower cos
 - **Providing multi-objective LLM/AI Application parallel testing**, which improve the efficiency of vulnerability fuzzing.
 - **Out-of-Box attack modules facilitates manual and automated redteaming**, incorporating automated attack modules based on research-backed techniques to test multiple LLM applications simultaneously.
 - **Out-of-Box built-in evaluation datasets**, based on cloud threat intelligence and AI research team, continuously organize and update the latest evaluation datasets, ensure that enterprises can continuously obtain the most objective perception of the security & safety performance of their model/apps.
+- **Customise with Datasets for your unique Application needs**, tailor testing with custom datasets for your domain. Evaluate performance and safety for your specific use case, optimizing efficiency
 - **Project LMAP simplifies the evaluation process and reports**, and generates shareable formatted reports that seamlessly integrate with the CI/CD pipeline. This saves time and resources while ensuring a comprehensive evaluation of model performance.
 
 
