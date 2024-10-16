@@ -24,6 +24,7 @@ In the LLM space, companies often ask
 - **"how do we ensure our application, building on the model we chose, is robust and safe?"**
 
 LMAP helps companies conduct evaluation and redteaming activities at a lower cost by: 
+- **Providing a universal HTTP access method**, compatible with most mainstream LLMs and custom GenAI Application scenarios through HTTP interaction.
 - **Providing a efficient GUI tool**, which make it easy to use.
 - **Providing multi-objective LLM/AI Application parallel testing**, which improve the efficiency of vulnerability fuzzing.
 - **Out-of-Box attack modules facilitates manual and automated redteaming**, incorporating automated attack modules based on research-backed techniques to test multiple LLM applications simultaneously.
